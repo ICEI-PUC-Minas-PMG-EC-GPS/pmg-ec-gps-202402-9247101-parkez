@@ -102,6 +102,37 @@
 
 # Estrutura Analítica do Projeto
 
+
+# Projeto Web Site
+
+## 1. Planejamento
+   - Definição do escopo
+
+## 2. Conceituação
+   - Conhecimento do público
+   - O ambiente de publicação
+   - Conceituação comercial e editorial
+   - Modelo conceitual
+
+## 3. Estruturas Informacional e Visual
+   - Arquitetura da informação
+   - Layout
+
+## 4. Produção
+   - Gerenciamento de conteúdo
+   - Preparo e edição de conteúdo
+   - Mapeamento de processos
+   - Preparo das soluções comerciais
+   - Preparo da infraestrutura tecnológica
+   - Testes
+
+## 5. Lançamento
+   - Preparo das equipes de atualização
+   - Divulgação
+   - Especificações do produto
+   - Avaliação do produto
+
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
