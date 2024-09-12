@@ -28,7 +28,71 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### OBJETIVO DO PROJETO:
+
+   Facilitar a reserva de vagas de estacionamento para usuários, permitindo que pesquisem locais de interesse, visualizem estacionamentos próximos e reservem vagas com pagamento parcial antecipado.
+
+### Requisitos Funcionais:
+
+   | ID     | Descrição do Requisito                                                                                                                                 | Prioridade |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | Permitir que o usuário pesquise estacionamentos próximos ao local desejado.                                                                            | ALTA       |
+| RF-002 | Permitir que o usuário visualize detalhes do estacionamento, como disponibilidade de vagas, preços e horários de funcionamento.                        | ALTA       |
+| RF-003 | Permitir que o usuário faça a reserva de uma vaga de estacionamento através do aplicativo, com pagamento de 30% do valor no ato da reserva.            | ALTA       |
+| RF-004 | Implementar uma funcionalidade para cancelamento de reserva até 15 minutos após a confirmação.                                                         | ALTA       |
+| RF-005 | Calcular automaticamente o valor a ser pago pelo tempo de permanência no estacionamento, com base em tarifas configuradas.                             | ALTA       |
+| RF-006 | Oferecer ao usuário a opção de pagamento do saldo restante ao chegar no estabelecimento.                                                               | ALTA       |
+| RF-007 | Implementar um sistema de notificações para avisar o usuário sobre o status da reserva, prazos para cancelamento e promoções.                          | MÉDIA      |
+| RF-008 | Fornecer recomendações de locais parceiros próximos ao destino do usuário, destacando ofertas e descontos exclusivos.                                  | MÉDIA      |
+| RF-009 | Implementar um clube de assinantes que ofereça benefícios exclusivos, como descontos em estacionamentos, mediante o pagamento de uma mensalidade.       | MÉDIA      |
+| RF-010 | Permitir a aplicação de descontos especiais em estacionamentos próximos a eventos, como shows ou eventos esportivos, para usuários do aplicativo.      | MÉDIA      |
+
+### Requisitos Não Funcionais
+
+| ID     | Descrição do Requisito                                                                                                             | Prioridade |
+|--------|------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001| O aplicativo deve ser compatível com as plataformas iOS e Android, garantindo uma experiência consistente em ambos os sistemas.     | ALTA       |
+| RNF-002| O sistema deve garantir a proteção dos dados do usuário, especialmente as informações de pagamento, utilizando criptografia SSL/TLS.| ALTA       |
+| RNF-003| O aplicativo deve apresentar tempo de resposta inferior a 2 segundos para consultas de estacionamentos e reservas.                  | MÉDIA      |
+| RNF-004| O aplicativo deve ser escalável, suportando um número crescente de usuários e estacionamentos sem perda significativa de desempenho. | ALTA       |
+| RNF-005| O sistema deve garantir alta disponibilidade, com um tempo de atividade (uptime) de 99,9% para evitar interrupções no serviço.      | ALTA       |
+
+### Restrições
+
+
+| ID     | Descrição da Restrição                                                                                                                |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------|
+| RES-001| O aplicativo deve ser lançado nas lojas Apple App Store e Google Play Store até o final de dezembro de 2024.                          |
+| RES-002| O desenvolvimento deve ser realizado com um orçamento fixo e limitado, não podendo exceder o valor previamente acordado pelo cliente.  |
+| RES-003| A integração com os sistemas de pagamento deve seguir as regulamentações locais e internacionais, como PCI-DSS, para proteção de dados.|
+| RES-004| As parcerias com estacionamentos e estabelecimentos para recomendações e descontos devem ser formalizadas antes do lançamento do aplicativo. |
+| RES-005| O suporte a atualizações e manutenção do aplicativo deve ser garantido por um período mínimo de 12 meses após o lançamento.            |
+
+### Condições para início do Projeto
+
+| ID    | Descrição da Condição para Início do Projeto                  |
+|-------|---------------------------------------------------------------|
+| CI-001| Aprovação do orçamento e alocação de recursos financeiros     |
+| CI-002| Definição e aprovação dos requisitos e especificações do sistema |
+| CI-003| Estabelecimento de parcerias e acordos com estabelecimentos    |
+
+## Marcos Agendados e Entregas
+
+| ID   | Marco do Projeto                                                  | Descrição Detalhada                                             | Data Prevista        |
+|------|-------------------------------------------------------------------|-----------------------------------------------------------------|----------------------|
+| M-1  | Desenvolvimento das páginas principais                           | Implementação das páginas de login, recuperação de senha, e página inicial (home). | 15/10/2024           |
+| M-2  | Liberação do sistema para cadastro de informações e configuração. | Finalização da configuração inicial e cadastro de informações. | 22/10/2024           |
+| M-3  | Desenvolvimento da funcionalidade de pesquisa e reserva de vagas  | Implementação das funcionalidades de pesquisa de locais e reserva de vagas com processamento de pagamentos. | 05/11/2024           |
+| M-4  | Desenvolvimento da funcionalidade de cancelamento de reservas      | Implementação da opção para cancelar reservas e políticas associadas. | 15/11/2024           |
+| M-5  | Desenvolvimento da página de perfil e histórico de reservas       | Criação das páginas de perfil do usuário e histórico de reservas. | 22/11/2024           |
+| M-6  | Implementação do sistema de notificações                           | Criação de notificações para confirmações de reserva, cancelamento e outras atualizações importantes. | 01/12/2024           |
+| M-7  | Disponibilização do clube de assinantes e benefícios               | Lançamento do clube de assinantes com benefícios e descontos exclusivos. | 15/12/2024           |
+| M-8  | Ativação da funcionalidade de descontos para eventos               | Implementação de descontos exclusivos para eventos especiais e integração com o sistema. | 01/01/2025           |
+| M-9  | Realização de testes finais e ajustes                            | Testes finais do sistema, correção de bugs e ajustes baseados no feedback dos usuários. | 01/03/2025           |
+| M-10 | Deploy nas plataformas de download (App Store e Google Play)       | Preparação e lançamento do aplicativo nas principais plataformas de download. | 10/03/2025           |
+| M-11 | Permissão para uso do sistema por usuários focais.                | Início da fase de uso real com usuários focais para validar a funcionalidade completa do sistema. | 22/03/2025           |
+
+
 
 > O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
 > O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
@@ -47,49 +111,6 @@
 > Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-
-
-
-
-
-
-# Estrutura Analítica do Projeto (EAP) - Parkez
-
-## 1. Planejamento
-   1.1. Definição de Escopo
-   1.2. Análise de Requisitos
-   1.3. Estimativa de Recursos e Custos
-   1.4. Cronograma
-
-## 2. Desenvolvimento
-   2.1. Backend
-      2.1.1. Sistema de Busca de Estacionamentos
-      2.1.2. Sistema de Reserva de Vagas
-      2.1.3. Integração com Estacionamentos
-   2.2. Frontend
-      2.2.1. Interface do Usuário (UI)
-      2.2.2. Aplicativo Mobile
-   2.3. Integração com APIs de Pagamento
-
-## 3. Testes e Validação
-   3.1. Testes de Funcionalidade
-   3.2. Testes de Usabilidade
-   3.3. Testes de Desempenho
-
-## 4. Implementação e Lançamento
-   4.1. Publicação nas App Stores
-   4.2. Monitoramento Pós-Lançamento
-
-## 5. Marketing e Parcerias
-   5.1. Parcerias com Estacionamentos
-   5.2. Campanhas de Divulgação
-
-
-
-
-
-
 
 ![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
 
