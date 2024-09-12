@@ -105,33 +105,45 @@
 
 # Projeto Web Site
 
-## 1. Planejamento
-   - Definição do escopo
+## 1. Identificação do problema
+   - Dificuldade em encontrar vagas de estacionamento
+   - Falta de informações centralizadas sobre disponibilidade de vagas
+   - Desperdício de tempo e combustível
+     
 
-## 2. Conceituação
-   - Conhecimento do público
-   - O ambiente de publicação
-   - Conceituação comercial e editorial
-   - Modelo conceitual
+## 2. Objetivos do Projeto
+   - Desenvolver um aplicativo mobile para reserva antecipada de vagas de estacionamento
+   - Criar um sistema de busca que exiba vagas disponíveis em tempo real
+   - Implementar mecanismos de reserva e pagamento
 
-## 3. Estruturas Informacional e Visual
-   - Arquitetura da informação
+## 3. Justificativa
+   - Otimização de busca por vagas de estacionamento
+   - Melhoria na gestão de vagas
+   - Criação de um canal de marketing
+
+## 4. Conceituação
+   - Público-Alvo
+       - Motoristas em áreas urbanas
+       - Estabelecimentos que buscam atrair mais clientes
+   - Modelo Conceitual
+       - O aplicativo deve oferecer praticidade
+       - Reserva antecipada de vagas
+       - Parcerias com estacionamentos e estabelecimentos para descontos e promoções
+
+
+## 5. Estruturas Informacional e Visual
+   - Arquitetura da Informação
+       - Páginas principais do app: login, recuperação de senha, home, pesquisa de estacionamentos, reserva e perfil do usuário
    - Layout
+       - Interface intuitiva e responsiva para iOS e Android
+       - Visual limpo
+       - Destaque para informações de disponibilidade de vagas e promoções
 
-## 4. Produção
-   - Gerenciamento de conteúdo
-   - Preparo e edição de conteúdo
-   - Mapeamento de processos
-   - Preparo das soluções comerciais
-   - Preparo da infraestrutura tecnológica
-   - Testes
-
-## 5. Lançamento
-   - Preparo das equipes de atualização
-   - Divulgação
-   - Especificações do produto
-   - Avaliação do produto
-
+## 5. Atividades
+   - Desenvolvimento das principais funcionalidades
+   - Validação contínua da experiência do usuário
+   - Implementação de funcionalidades avançadas (clube de assinantes, descontos para eventos)
+   
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
