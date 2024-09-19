@@ -196,6 +196,10 @@
 > Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
+![1](https://github.com/user-attachments/assets/09a19e98-d3a2-404e-99ff-9ed841950b6d)
+> 
+![2](https://github.com/user-attachments/assets/62f64c8f-a688-43c4-96b1-27c3163b7184)
+
 
 ![Matriz RACI](images/raci.png)
 
@@ -225,10 +229,11 @@
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
-### Documento Editável
+
+### Documento
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
+- [[Cronograma e Orçamento do Projeto -(https://docs.google.com/document/d/1m841oEDj8vBRjz5OOj6P9vOlRZj-is4wL6Y765xpEIA/edit?usp=sharing)
 
 ```diff
 + Tarefa 07:
