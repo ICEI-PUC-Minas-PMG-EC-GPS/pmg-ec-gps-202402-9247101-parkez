@@ -250,6 +250,7 @@
 
 ......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
 ![image](https://github.com/user-attachments/assets/e28a9fd4-71e1-4778-9e50-eeb718394684)
+
 ![image](https://github.com/user-attachments/assets/fcae183a-6c57-4d4c-b0da-2fedc43aea92)
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
