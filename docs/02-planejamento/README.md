@@ -374,7 +374,7 @@
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+[aquisicao_produtos.docx](https://github.com/user-attachments/files/17853317/aquisicao_produtos.docx)
 
 
 ```diff
