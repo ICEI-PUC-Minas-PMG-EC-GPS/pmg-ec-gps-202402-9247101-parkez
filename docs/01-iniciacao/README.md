@@ -95,8 +95,8 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|  Felipe Thomaz  | Coordenador Técnico  | Desenvolvedor & UX       | felipetomaz009@gmail.com | 31999270803 |
-| Raphael Rezende | Gerente de Projetos  | Desenvolvedor Principal  | rapharreis2020@gmail.com | 31988518736 |
+|  Felipe Thomaz  |  Gerente de Projetos | Desenvolvedor & UX       | felipetomaz009@gmail.com | 31999270803 |
+| Raphael Rezende | Coordenador Técnico  | Desenvolvedor Principal  | rapharreis2020@gmail.com | 31988518736 |
 |    Mauricio     | Analista Sênior      | SQA teste                | mauricioribeiro_99@hotmail.com| 319837-9204 |
 |     Bruno       | Desenvolvedor Sênior | Desenvolvedor            | brunoh85@gmail.com     | 37908195422 |
 |     Matheus     | Desenvolvedor Júnior | Desenvolvedor            | matheuslopes_2@gmail.com | 31984132751 |
