@@ -316,45 +316,43 @@
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
 |     Documento de Requisitos       |    Revisão Manual         |      2024-11-25       |        Bruno Henrique     |     Conformidade com padrões        |      2024-11-30         |         Atualizar requisitos          |        Felipe Thomaz         |          Bruno Henrique       |
-|    Código-Fonte        |      Teste Automático       |     2024-12-01      |       Raphael Rezende      |      Cobertura > 80%       |       2024-12-05        |         Corrigir testes falhos          |      Mauricio Richtof           |        Raphael Rezende          |
+|    Código-Fonte        |      Teste Automático       |     2024-12-01      |       Raphael Rezende      |      Cobertura > 80%       |       2024-12-05        |         Corrigir testes falhos          |      Mauricio Richthofen           |        Raphael Rezende          |
 
 
 ### Padrões e Normas Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|    ISO/IEC 25010        |       Norma que define características de qualidade de software.v      |
+|    Clean Code        |     Conjunto de boas práticas para escrever código claro e compreensível.        |
+|      Padrão IEEE 830      |      Orientações para criação de documentos de especificação de requisitos.       |
+
 
 ### Ambiente das Atividades de Qualidade
 
 | Ambiente   | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|      Ambiente de Teste      |      Servidor dedicado com acesso a banco de dados isolado.       |
+|      Ferramenta CI/CD      |       Jenkins configurado para realizar builds e testes automáticos.      |
+|      Ambiente Local      |       Máquinas de desenvolvimento com ferramentas como Visual Studio e JIRA.      |
+
 
 ### Equipe de Qualidade
 
 | Nome       | Responsabilidade | 
 |------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+|     Bruno Henrique       |         Realizar revisões de documentos e garantir conformidade com padrões.         |
+|      Mauricio Richthofen       |        Implementar e monitorar testes automatizados.          |
+|      Raphael Rezende       |         Validar correções e emitir relatórios de qualidade.         |
+
 
 ### Metodologias de Qualidade Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+|        Test-Driven Development (TDD)     |      Desenvolvimento orientado a testes para garantir robustez do código.       |
+|   Análise de Riscos         |      	Identificação e mitigação de riscos potenciais no software.       |
+|     Revisões por Pares       |     	Revisões cruzadas para identificar problemas antes da implementação.        |
 
 ```diff
 + Tarefa 09:
