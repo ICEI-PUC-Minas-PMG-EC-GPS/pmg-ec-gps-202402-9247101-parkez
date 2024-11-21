@@ -315,12 +315,9 @@
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+|     Documento de Requisitos       |    Revisão Manual         |      2024-11-25       |        Bruno Henrique     |     Conformidade com padrões        |      2024-11-30         |         Atualizar requisitos          |        Felipe Thomaz         |          Bruno Henrique       |
+|    Código-Fonte        |      Teste Automático       |     2024-12-01      |       Raphael Rezende      |      Cobertura > 80%       |       2024-12-05        |         Corrigir testes falhos          |      Mauricio Richtof           |        Raphael Rezende          |
+
 
 ### Padrões e Normas Utilizadas
 
