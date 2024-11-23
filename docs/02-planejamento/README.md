@@ -392,7 +392,7 @@
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
 
-- Plano de Gerenciamento de Comunicação - [](plano_comunicação.docx)
+- [Plano de Gerenciamento de Comunicação](plano_comunicação.docx)
   
 ### Plano de Gerência de Comunicação
 - Ferramentas utilizadas:
