@@ -391,58 +391,27 @@
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
 
-### Plano de Comunicação do Projeto
-
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-
-> Legenda:
-> - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
-> - Responsável: pessoa responsável pela comunicação.
-
+- Plano de Gerenciamento de Comunicação - [](plano_comunicação.docx)
+  
 ### Plano de Gerência de Comunicação
-
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
-
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- - [GitHub](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-parkez/tree/master)
+  - FireBase
+  - Flutter
+ 
 - Papéis:
-- - ...
-  - ...
-  - ...
+  - Líder do Projeto: Coordena a comunicação geral e valida as entregas comunicadas.
+  - Analista de Requisitos: Responsável por compartilhar artefatos técnicos, como o escopo.
+  - Especialista em Qualidade: Relata a conformidade com padrões e atualizações de inspeções.
+    
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
-
+  - Clareza: Informações transmitidas de forma objetiva e sem ambiguidade.
+  - Impessoalidade: Foco no conteúdo e nos objetivos do projeto, evitando conflitos interpessoais.
+  - Cordialidade: Comunicação respeitosa e construtiva.
+  - Imparcialidade: Distribuição de informações de maneira justa entre os stakeholders.
+  - Objetividade: Comunicação direta e alinhada aos interesses do projeto.
+    
 ```diff
 + Tarefa 11:
 + Fim da seção a ser atualizada.
