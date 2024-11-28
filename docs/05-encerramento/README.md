@@ -1,68 +1,34 @@
-# Encerramento
+### Encerramento do Projeto  
 
-> A fase de encerramento marca a conclusão formal de todas as atividades relacionadas ao projeto. 
-> Durante essa etapa, os resultados finais são avaliados em relação aos objetivos iniciais e as entregas são revisadas para garantir conformidade com os requisitos estabelecidos. 
-> Os processos de encerramento incluem a documentação de lições aprendidas, a formalização da aceitação do cliente e a finalização de contratos e recursos. 
-> As equipes devem realizar uma avaliação pós-projeto para identificar sucessos, desafios e áreas de melhoria. 
-> A fase de encerramento contribui para a transparência, satisfação do cliente e a consolidação das experiências adquiridas ao longo do ciclo de vida do projeto.
+O projeto Parkez foi concluído com sucesso, entregando todas as funcionalidades planejadas de acordo com o escopo inicial. O cliente aprovou o resultado final, destacando a qualidade e eficiência do aplicativo desenvolvido. Durante a execução do projeto, a equipe enfrentou desafios relacionados à integração de ferramentas e gestão de tarefas, mas conseguiu superá-los com trabalho colaborativo e planejamento eficiente. Todos os recursos foram liberados, e as responsabilidades foram transferidas para o cliente, finalizando o projeto dentro do prazo e com os objetivos plenamente alcançados.  
 
-# Estrutura do Documento
+---
 
-- [Fase de Encerramento](#encerramento)
-- [Encerramento do Projeto](#encerramento-do-projeto)
-- [Lições Aprendidas](#lições-aprendidas)
-- [Auto-avaliação](#auto)
-- [Sugestões e Críticas](#sugestões-e-críticas)
+### Lições Aprendidas  
 
-----
-```diff
-+ Tarefa 13:
-+ Encerramento do Projeto
-```
+Ao longo do desenvolvimento do projeto Parkez, a equipe identificou diversas lições que serão úteis em futuros projetos. Entre os aspectos positivos, destacaram-se o aprendizado sobre o uso do **MS Project**, que foi fundamental para o planejamento e acompanhamento das tarefas, e a integração eficiente do **GitHub** para versionamento e organização das entregas.  
 
-# Encerramento do Projeto
+Apesar dos sucessos, a equipe reconheceu que uma comunicação mais constante entre os membros poderia ter reduzido retrabalhos em algumas etapas. Além disso, a experiência reforçou a importância de realizar um planejamento mais detalhado desde o início do projeto para mitigar possíveis atrasos. A vivência prática permitiu consolidar boas práticas em desenvolvimento ágil e no gerenciamento de equipes.  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+---
 
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
+### Auto-avaliação  
 
+Cada integrante avaliou sua participação e comprometimento no projeto com uma nota de 1 a 5. As notas refletem dedicação, aprendizado e contribuição individual:  
 
-# Lições Aprendidas 
+- **Raphael Reis**: 4/5 – Participou ativamente em todas as etapas do projeto, contribuindo para a codificação e integração das funcionalidades principais. Poderia melhorar na gestão de prazos.  
+- **Mauricio Ribeiro**: 4/5 – Demonstrou forte habilidade técnica e foco na resolução de problemas, mas identificou que poderia colaborar mais na parte de planejamento.  
+- **Bruno Freitas**: 4/5 – Engajado na implementação de funcionalidades, desempenhou um papel importante no sucesso do projeto, mas apontou que pode melhorar na comunicação com a equipe.  
+- **Felipe Thomaz**: 4/5 – Comprometido e eficiente, contribuiu com insights relevantes, mas percebeu que poderia dedicar mais tempo à documentação das entregas.  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+---
 
-> A identificação e documentação de lições aprendidas contribuem significativamente para a melhoria contínua e o aprimoramento das práticas organizacionais. 
-> Este processo envolve a reflexão sistemática sobre os sucessos e desafios enfrentados durante a execução do projeto, analisando o que funcionou bem e o que poderia ser melhorado. 
-> A documentação dessas lições aprendidas abrange não apenas os aspectos técnicos, mas também os relacionados ao gerenciamento de equipes, comunicação, riscos, entre outros. 
-> Ao compartilhar essas experiências, as organizações têm a oportunidade de evitar a repetição de erros, replicar práticas bem-sucedidas e fortalecer a capacidade de gerenciamento de projetos ao longo do tempo. 
+### Sugestões e Críticas  
 
-# Auto-avaliação
+A disciplina foi proveitosa, proporcionando uma vivência prática de desenvolvimento e gerenciamento de projetos. Alguns pontos de destaque e sugestões de melhoria incluem:  
 
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
+- **Aulas online**: Embora tenham sido úteis para entender o uso do GitHub e MS Project, a interação e a clareza nas explicações poderiam ser aprimoradas. Momentos síncronos mais interativos seriam um diferencial.  
+- **Ferramentas de apoio**: Sugere-se o uso de mais ferramentas visuais e interativas, como Trello ou Miro, para melhor organização e acompanhamento do progresso do projeto.  
+- **Carga prática**: Aumentar o número de atividades práticas voltadas para problemas reais ajudaria os alunos a consolidar os conhecimentos adquiridos de forma mais efetiva.  
 
-> **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
->
-> Nesta seção, cada membro do grupo deve fornecer sua visão individual acerca da disciplina.
-> Indique também as contribuições da disciplina contribuiu para seu crescimento profissional.
-> Avalie seu comprometimento e itens que poderia melhorar.
-> Busque inspiração na filosofia [kaizen](https://pt.wikipedia.org/wiki/Kaizen), para seguir melhorando a cada dia.
-
-
-# Sugestões e Críticas
-
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
-
-> **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
->
-> Utilize esta seção para indicar sugestões e críticas acerca da disciplina e do formato aqui trabalhado.
-> Tanto sugestões quanto críticas são sempre bem vindas!
-
-
-```diff
-+ Tarefa 13
-+ Fim da seção a ser atualizada.
-```
-
-
+No geral, a disciplina foi enriquecedora e ajudou a desenvolver habilidades técnicas e gerenciais, preparando a equipe para desafios futuros.
