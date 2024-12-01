@@ -1,8 +1,6 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
-
-PARKEZ
+# PARKEZ
 
 
   Parkez surgiu da observação de um problema comum nas áreas urbanas, a dificuldade de encontrar e garantir uma vaga de estacionamento, especialmente em horários de pico. Em grandes centros urbanos, o tempo gasto procurando um lugar para estacionar é uma fonte constante de estresse para os motoristas. Além disso, os estacionamentos muitas vezes operam abaixo de sua capacidade máxima, devido à falta de uma gestão eficiente.
