@@ -31,4 +31,4 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-[![Imagem do Trabalho](![1](https://github.com/user-attachments/assets/4021c590-56e4-4ecb-89ef-bcd034118148)( [(https://youtu.be/c3_Dt9JVtxw?si=-PT4YBE_y-RVZVVt] )
+([1](https://github.com/user-attachments/assets/4021c590-56e4-4ecb-89ef-bcd034118148)([](https://youtu.be/c3_Dt9JVtxw?si=WihFpm6WLCa7F4_C))
