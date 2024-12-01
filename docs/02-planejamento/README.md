@@ -103,7 +103,7 @@
 # Estrutura Analítica do Projeto
 
 
-# Projeto Web Site
+# Aplicativo Mobile
 
 ## 1. Identificação do problema
    - Dificuldade em encontrar vagas de estacionamento
