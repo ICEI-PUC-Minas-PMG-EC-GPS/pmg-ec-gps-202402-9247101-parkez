@@ -30,4 +30,4 @@ Fases do Gerenciamento do Projeto:
 5. [Encerramento](docs/05-encerramento)
 
 ## Apresentação do Trabalho
-[![Imagem do Trabalho](https://github.com/user-attachments/assets/4021c590-56e4-4ecb-89ef-bcd034118148)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho](https://github.com/user-attachments/assets/4021c590-56e4-4ecb-89ef-bcd034118148)](https://youtu.be/c3_Dt9JVtxw)
